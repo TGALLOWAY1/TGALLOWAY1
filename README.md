@@ -11,6 +11,9 @@
 ---
 # 🌐 Project Gallery
 
+
+
+
 | **LusoPronounce**                                                                                                         | **Blokus RL Agent**                                                                                                    | **Ableton Push Layout Optimizer**                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 |<img width="1289" height="1274" alt="Luso" src="https://github.com/user-attachments/assets/a1d9c7fd-5382-4baa-a3cf-bfa3e83c278a" />                                                                             |<img width="1795" height="865" alt="Blokus RL" src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" />                                                                         | ![Push Performance](https://github.com/user-attachments/assets/6b9a367c-4b6f-475d-8570-1c7529872a26)                                                                         |
@@ -21,7 +24,7 @@
 
 | **HabitFlow (Activity Runner)**                                                                 | **Harmonia (Music Theory Engine)**                                                                                 | **Kick Drum Autoencoder**                                                                                        |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| <img src="your-habitflow-image.png" width="260"/>                                               | <img src="your-harmonia-image.png" width="260"/>                                                                   | <img src="your-autoencoder-image.png" width="260"/>                                                              |
+| <img width="1696" height="691" alt="HabitFlow" src="https://github.com/user-attachments/assets/1d82b4a4-b2f8-4eef-bd53-228750ac2c0f" />                                               | <img width="1037" height="770" alt="Harmonia" src="https://github.com/user-attachments/assets/9a24fec3-e753-450d-b956-2a3a73ea4862" />                                                                 |![Autoencoder Drums](https://github.com/user-attachments/assets/c298c552-e7b4-4e20-9def-9066866cd3dc)                                                             |
 | A personal habit automation system with activity modes, daily logging, and MongoDB persistence. | A generative music-theory engine for scale detection, chord progression modeling, and harmonic structure analysis. | A deep-learning autoencoder trained on kick drums with a web UI for sampling, interpolation, and drum synthesis. |
 | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/habitflow.pdf)                         | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/harmonia.pdf)                                             | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/autoencoder-drums.pdf)                                  |
 
