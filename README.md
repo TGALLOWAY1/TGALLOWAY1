@@ -20,31 +20,9 @@ Absolutely — here is a **clean, GitHub-friendly gallery layout** with:
 
 # 🚀 Featured Projects
 
-### 📁 Recommended Structure for PPT Links
-
-To keep your repo organized, you can make a folder like:
-
-```
-/docs/presentations/
-    luso-pronounce.pdf
-    blokus-rl.pdf
-    push-optimizer.pdf
-    habitflow.pdf
-    harmonia.pdf
-    autoencoder-drums.pdf
-```
-
-> **Tip:** Converting PPT → PDF is best for GitHub previews, but you can also upload `.pptx` files directly.
-> Replace the links below with the actual file paths after you upload.
-
----
-
-
-
-
 # 🌐 Project Gallery
 
-## ⭐ Top Projects
+## ⭐ My Favorite Projects
 
 | **LusoPronounce**                                                                                                         | **Blokus RL Agent**                                                                                                    | **Ableton Push Layout Optimizer**                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
