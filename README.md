@@ -74,10 +74,6 @@ Cloud and DevOps
 </p>
 
 
-
-
-
-
 Frameworks and Libraries
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
