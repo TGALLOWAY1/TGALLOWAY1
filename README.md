@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm TJ Galloway</h1>
 <h3 align="center">Using programming to extend creativity and solve interesting problems.</h3>
 
-- 🔭 I’m currently working on [Musical Performance Optimzation](https://github.com/TGALLOWAY1/Performance-ergonomics-optimization-engine-for-Ableton-Push)
+- 🔭 I’m currently working on Generative AI for music, art and learning
+
 - 🌱 I’m currently learning **Azure AI 102**
 
 - 💬 Ask me about **Ableton, AI, Machine Learning, Optimization**
