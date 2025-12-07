@@ -8,21 +8,8 @@
 
 - 📫 How to reach me **tj.galloway1@gmail.com**
 
-Absolutely — here is a **clean, GitHub-friendly gallery layout** with:
-
-### ✅ Your 6 chosen projects
-
-### ✅ PPT links included (with a suggested folder structure)
-
-### ✅ A polished grid layout that works reliably on GitHub
-
 ---
-
-# 🚀 Featured Projects
-
 # 🌐 Project Gallery
-
-## ⭐ My Favorite Projects
 
 | **LusoPronounce**                                                                                                         | **Blokus RL Agent**                                                                                                    | **Ableton Push Layout Optimizer**                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +18,6 @@ Absolutely — here is a **clean, GitHub-friendly gallery layout** with:
 | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/luso-pronounce.pdf)                                              | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/blokus-rl.pdf)                                                | [`Repo`](your-repo-link) • [`Slides`](docs/presentations/push-optimizer.pdf)                                          |
 
 ---
-
-## ⭐ Supporting Projects
 
 | **HabitFlow (Activity Runner)**                                                                 | **Harmonia (Music Theory Engine)**                                                                                 | **Kick Drum Autoencoder**                                                                                        |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
