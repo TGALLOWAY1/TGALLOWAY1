@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Generative AI for music, art and learning
 
-- 🌱 I’m currently learning **Azure AI 102**
+- 🌱 I’m currently studying for the **Azure AI 102 exam**
 
 - 💬 Ask me about **Ableton, AI, Machine Learning, Optimization**
 
