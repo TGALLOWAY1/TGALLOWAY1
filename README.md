@@ -13,10 +13,12 @@
 LusoPronounce — Portuguese Pronunciation Trainer
 <table> <tr> <!-- COLUMN 1 — IMAGE --> <td width="28%" align="center" valign="top"> <img src="https://github.com/user-attachments/assets/a1d9c7fd-5382-4baa-a3cf-bfa3e83c278a" width="95%" /> </td> <!-- COLUMN 2 — DESCRIPTION + LINKS --> <td width="30%" valign="top"> <strong>What it does:</strong><br/> LusoPronounce teaches European Portuguese pronunciation through phoneme-level feedback, waveform comparison, and spaced repetition.
 
+
+
 <br/><br/>
 <strong>Links:</strong><br/>
 • <a href="https://github.com/TGALLOWAY1/LusoPronunciation">GitHub Repo</a><br/>
-• <a href="docs/presentations/luso-pronounce.pdf">Slides</a>
+• <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/AI_Linguistics_A_Personalized_Pronunciation_Engine.pdf">Slides</a>
 
 </td> <!-- COLUMN 3 — TECH HIGHLIGHTS WITH ICONS --> <td width="42%" valign="top"> <strong>Tech Highlights:</strong><br/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="20"/> Azure Speech SDK (phoneme alignment)<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"/> Next.js frontend<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20"/> FastAPI backend<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB spaced-repetition system<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> Waveform + phoneme visualization<br/> </td> </tr> </table>
 Blokus RL Agent
