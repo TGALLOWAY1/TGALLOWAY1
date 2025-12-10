@@ -27,7 +27,7 @@ Blokus RL Agent
 <br/><br/>
 <strong>Links:</strong><br/>
 • <a href="https://github.com/TGALLOWAY1/ReinforcementLearning_Blokus">GitHub Repo</a><br/>
-• <a href="docs/presentations/blokus-rl.pdf">Slides</a>
+• <a href="[docs/presentations/blokus-rl.pdf](https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Blokus_RL_Mastery_Through_Self-Play.pdf)">Slides</a>
 
 </td> <td width="42%" valign="top"> <strong>Tech Highlights:</strong><br/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Python-logo-notext.svg" width="20"/> Python + NumPy bitboards<br/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Python-logo-notext.svg" width="20"/> Accelerated rollout simulation<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="20"/> PPO with Stable Baselines 3<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> Strategy heatmap visualization<br/> </td> </tr> </table>
 Ableton Push Layout Optimizer
