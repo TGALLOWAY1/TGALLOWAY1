@@ -36,7 +36,7 @@ Ableton Push Layout Optimizer
 <br/><br/>
 <strong>Links:</strong><br/>
 • <a href="https://github.com/TGALLOWAY1/Performance-ergonomics-optimization-engine-for-Ableton-Push">GitHub Repo</a><br/>
-• <a href="docs/presentations/push-optimizer.pdf">Slides</a>
+• <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Push_Performance_Engine.pdf">Slides</a>
 
 </td> <td width="42%" valign="top"> <strong>Tech Highlights:</strong><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> RL & heuristic optimization engine<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React + SVG onion-skin visualization<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> Node-based analysis pipeline<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Multi-criteria ergonomic scoring </td> </tr> </table>
 HabitFlow – Activity Runner
