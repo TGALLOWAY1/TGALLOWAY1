@@ -39,7 +39,7 @@ Ableton Push Layout Optimizer
 • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Push_Performance_Engine.pdf">Slides</a>
 
 </td> <td width="42%" valign="top"> <strong>Tech Highlights:</strong><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> RL & heuristic optimization engine<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React + SVG onion-skin visualization<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> Node-based analysis pipeline<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Multi-criteria ergonomic scoring </td> </tr> </table>
-HabitFlow – Activity Runner
+HabitFlow
 <table> <tr> <td width="28%" align="center" valign="top"> <img src="https://github.com/user-attachments/assets/1d82b4a4-b2f8-4eef-bd53-228750ac2c0f" width="95%" /> </td> <td width="30%" valign="top"> <strong>What it does:</strong><br/> A multi-mode activity execution system (checklist, image-guided, text-guided) with automated habit logging and MongoDB DayLogs.
 
 <br/><br/>
