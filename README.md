@@ -11,7 +11,7 @@
 
 # 🌐 **Project Gallery**
 LusoPronounce — Portuguese Pronunciation Trainer
-<table> <tr> <!-- COLUMN 1 — IMAGE --> <td width="28%" align="center" valign="top"> <img src="https://github.com/user-attachments/assets/a1d9c7fd-5382-4baa-a3cf-bfa3e83c278a" width="95%" /> </td> <!-- COLUMN 2 — DESCRIPTION + LINKS --> <td width="30%" valign="top"> <strong>What it does:</strong><br/> LusoPronounce teaches European Portuguese pronunciation through phoneme-level feedback, waveform comparison, and spaced repetition.
+<table> <tr> <!-- COLUMN 1 — IMAGE --> <td width="28%" align="center" valign="top"> <img src="https://github.com/user-attachments/assets/a1d9c7fd-5382-4baa-a3cf-bfa3e83c278a" width="95%" /> </td> <!-- COLUMN 2 — DESCRIPTION + LINKS --> <td width="30%" valign="top"> <strong>What it does:</strong><br/> LusoPronounce teaches Brazilian Portuguese pronunciation through phoneme-level analysis using Azure Speech AI. It then provides phoneme tips and recommendations via OpenAI / Google AI Studio APIs.
 
 
 
