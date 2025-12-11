@@ -4,7 +4,8 @@
 
 * 🔭 I’m currently working on Generative AI for music, art and learning
 * 🌱 Studying for the **Azure AI-102** exam
-* 💬 Ask me about **Ableton, AI, Machine Learning, Optimization**
+* ✏️ Applied Skills Credentials - Azure AI Natural Language Processing
+* 💬 Ask me about **Ableton, AI, Machine Learning, Optimization** 
 * 📫 Reach me at **[tj.galloway1@gmail.com](mailto:tj.galloway1@gmail.com)**
 
 ---
@@ -68,59 +69,114 @@ Kick Drum Autoencoder
 </td> <td width="42%" valign="top"> <strong>Tech Highlights:</strong><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="20"/> PyTorch autoencoder<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Dataset augmentation + preprocessing<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"/> Next.js WebAudio UI<br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> Audio inference backend </td> </tr> </table>
 ---
 
+
+
 # 🧰 **Skills**
 
 ## **Languages**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>&nbsp; JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>&nbsp; TypeScript  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp; Python
-</p>
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
 
 ## **Machine Learning & AI**
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>&nbsp; PyTorch 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>&nbsp; TensorFlow  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>&nbsp; scikit-learn
-</p>
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit Learn" />
+      <br>Scikit-learn
+    </td>
+  </tr>
+</table>
 
 ## **Cloud & DevOps**
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>&nbsp; Azure  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>&nbsp; Git 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>&nbsp; Docker
-</p>
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
 ## **Frameworks & Libraries**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>&nbsp; React  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>&nbsp; Tailwind CSS  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>&nbsp; Node.js  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>&nbsp; Pandas  
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>&nbsp; OpenCV
-</p>
-
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
 
 ## **Databases**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>&nbsp; MongoDB  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>&nbsp; PostgreSQL
-</p>
 
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg/>
+
+
 
 
 
