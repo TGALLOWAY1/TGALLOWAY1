@@ -9,14 +9,6 @@
   <br>
 
   <p>
-    🔭 Working on <b>Generative AI for music, art, and learning</b>
-    <br>
-    🌱 Studying for the <b>Azure AI-102 Exam</b>
-    <br>
-    ✏️ Credential: <b>Azure AI Natural Language Processing</b>
-  </p>
-
-  <p>
     <a href="mailto:tj.galloway1@gmail.com">
       <img src="https://img.shields.io/badge/Email-TJ.Galloway1%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -282,6 +274,17 @@
     </td>
      </tr>
 </table>
+
+
+
+  <p>
+    🔭 Working on <b>Generative AI for music, art, and learning</b>
+    <br>
+    🌱 Studying for the <b>Azure AI-102 Exam</b>
+    <br>
+    ✏️ Credential: <b>Azure AI Natural Language Processing</b>
+  </p>
+
 
 
 <!-- <table>
