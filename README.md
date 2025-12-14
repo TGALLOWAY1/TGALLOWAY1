@@ -229,6 +229,24 @@
   </tr>
 </table>
 
+## **Development Environments**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://cursor.sh/">
+        <img src="https://github.com/user-attachments/assets/290fbe49-00cc-41a7-ad5c-ec6e6edaecfc" width="96" height="96" alt="CursorAI" />
+      </a>
+      <br>CursorAI
+    </td>
+    <td align="center" width="96">
+      <a href="https://developers.google.com/antigravity">
+        <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/a3de3f5f-e4b7-4be5-b7a0-2a9a03314fa1" alt="Google Antigravity"/>
+      </a>
+      <br>Google Antigravity
+    </td>
+  </tr>
+</table>
+
 ## **Frameworks, Libraries & Data**
 <table>
   <tr>
@@ -274,7 +292,6 @@
     </td>
      </tr>
 </table>
-
 
 
   <p>
