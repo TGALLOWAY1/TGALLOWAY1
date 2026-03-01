@@ -137,29 +137,6 @@
   </tr>
 </table>
 
-### 🥁 Kick Drum Autoencoder
-<table>
-  <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/c8ec853c-0f68-48b8-8590-d91141a2c9a4" width="100%" />
-    </td>
-    <td width="42%" valign="top">
-      <strong>What it does:</strong><br/>
-      A deep-learning convolutional autoencoder that generates and interpolates kick drums, accessible through a browser UI.
-      <br/><br/>
-      <strong>Links:</strong><br/>
-      • <a href="https://github.com/TGALLOWAY1/AutoencoderDrumSet">📂 GitHub Repo</a><br/>
-      • <a href="docs/presentations/autoencoder-drums.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
-      <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="16"/> PyTorch<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python (Audio)<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="16"/> Next.js<br/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 # 🧰 **Skills**
