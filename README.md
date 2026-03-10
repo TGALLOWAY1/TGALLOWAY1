@@ -44,6 +44,30 @@
   </tr>
 </table>
 
+### 🧠 SynapsePRD — AI Product Spec Generator
+<table>
+  <tr>
+    <td width="28%" align="center" valign="top">
+      <img src="YOUR_IMAGE_HERE" width="100%" />
+    </td>
+    <td width="42%" valign="top">
+      <strong>What it does:</strong><br/>
+      SynapsePRD transforms rough product ideas into structured PRDs, feature breakdowns, UX directions, and implementation plans. It is designed as an AI-assisted project-definition workspace for moving from concept to build-ready specifications.
+      <br/><br/>
+      <strong>Links:</strong><br/>
+      • <a href="https://github.com/TGALLOWAY1/SynapsePRD">📂 GitHub Repo</a><br/>
+      • <a href="YOUR_DEMO_OR_SLIDES_LINK">📄 Demo / Slides</a>
+    </td>
+    <td width="30%" valign="top">
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
+      🤖 LLM API Integration<br/>
+    </td>
+  </tr>
+</table>
+
 ### 🟦 Blokus RL Agent
 <table>
   <tr>
@@ -110,6 +134,30 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
+    </td>
+  </tr>
+</table>
+
+### 🗺️ SpatialTasks — Spatial Task Mapping Interface
+<table>
+  <tr>
+    <td width="28%" align="center" valign="top">
+      <img src="YOUR_IMAGE_HERE" width="100%" />
+    </td>
+    <td width="42%" valign="top">
+      <strong>What it does:</strong><br/>
+      SpatialTasks is a visual task-planning system that lets users organize work spatially instead of through traditional lists. It supports node-based task grouping, relationship mapping, and interactive planning for projects that benefit from a more flexible, visual workflow.
+      <br/><br/>
+      <strong>Links:</strong><br/>
+      • <a href="https://github.com/TGALLOWAY1/SpatialTasks">📂 GitHub Repo</a><br/>
+      • <a href="YOUR_VERCEL_OR_DEMO_LINK">🚀 Live Demo</a>
+    </td>
+    <td width="30%" valign="top">
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
+      🧩 Interactive Canvas UI<br/>
     </td>
   </tr>
 </table>
