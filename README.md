@@ -43,12 +43,12 @@
     </td>
   </tr>
 </table>
-
+<!--
 ### 🧠 SynapsePRD — AI Product Spec Generator
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="YOUR_IMAGE_HERE" width="100%" />
+      <img src="https://github.com/user-attachments/assets/90bfbcab-541a-4781-ad00-cf43fb869260" width="100%" />
     </td>
     <td width="42%" valign="top">
       <strong>What it does:</strong><br/>
@@ -67,6 +67,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ### 🟦 Blokus RL Agent
 <table>
@@ -138,6 +139,7 @@
   </tr>
 </table>
 
+<!--
 ### 🗺️ SpatialTasks — Spatial Task Mapping Interface
 <table>
   <tr>
@@ -161,6 +163,7 @@
     </td>
   </tr>
 </table>
+--> 
 
 ### 🎶 Harmonia – Music Theory Engine
 <table>
