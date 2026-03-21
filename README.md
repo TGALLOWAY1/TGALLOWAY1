@@ -165,15 +165,15 @@
 </table>
 --> 
 
-### 🎶 Harmonia – Music Theory Engine
+### 🎶 Harmonia – Algorithmic Music Generation Canvas
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/9a24fec3-e753-450d-b956-2a3a73ea4862" width="100%" />
+      <img src="https://github.com/user-attachments/assets/e6f3a36c-e848-4366-8840-62473ca45560" width="100%" />
     </td>
     <td width="42%" valign="top">
       <strong>What it does:</strong><br/>
-      A generative harmonic-analysis system capable of scale inference, Roman numeral parsing, voice-leading evaluation, and MIDI suggestions.
+      A procedural harmonic generator and immersive music sketchpad. It constructs scale-aware chord progressions and melodies using algorithmic voice-leading heuristics, accompanied by a real-time Tone.js synthesis engine and interactive piano roll.
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/HarmoniaLearningMusicTheory">📂 GitHub Repo</a><br/>
@@ -181,12 +181,14 @@
     </td>
     <td width="30%" valign="top">
       <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16"/> JavaScript (MIDI)<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="16"/> Next.js<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
+      🎹 Tone.js<br/>
     </td>
   </tr>
 </table>
+
 
 ---
 
