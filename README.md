@@ -44,7 +44,7 @@
   </tr>
 </table>
 <!--
-### 🧠 SynapsePRD — AI Product Spec Generator
+### 🧠 SynapsePRD — AI Product Development Platform
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
@@ -52,45 +52,59 @@
     </td>
     <td width="42%" valign="top">
       <strong>What it does:</strong><br/>
-      SynapsePRD transforms rough product ideas into structured PRDs, feature breakdowns, UX directions, and implementation plans. It is designed as an AI-assisted project-definition workspace for moving from concept to build-ready specifications.
+      SynapsePRD is a spec-driven product development platform that transforms rough ideas into build-ready specifications through an AI-powered pipeline. It goes beyond PRD generation — users can iteratively refine specs through branch-based exploration, generate multi-fidelity UI mockups (wireframe → high-fi), auto-derive 7 downstream artifacts (screen inventories, user flows, component inventories, data models, implementation plans, design systems, and prompt packs), and close feedback loops between design and specification — all with full version history and provenance tracking.
       <br/><br/>
+      <strong>Key Features:</strong><br/>
+      • Structured PRD generation with intent-based branching (Clarify, Expand, Specify, Alternative, Replace)<br/>
+      • Multi-fidelity mockup generation with A/B comparison and version tracking<br/>
+      • 7 auto-generated downstream artifacts from a single PRD<br/>
+      • Integrated feedback loop — mockup insights feed back into PRD branches<br/>
+      • Scope-guarded document-wide patch consolidation with match previews<br/>
+      • Agent prompt generation for Cursor, Codex, Claude Code, and GitHub Copilot<br/>
+      <br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/SynapsePRD">📂 GitHub Repo</a><br/>
-      • <a href="YOUR_DEMO_OR_SLIDES_LINK">📄 Demo / Slides</a>
+      • <a href="https://synapse-prd.vercel.app/">🚀 Live Demo</a><br/>
     </td>
     <td width="30%" valign="top">
       <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React 19<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
-      🤖 LLM API Integration<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="16"/> Vite<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
+      🤖 Google Gemini 2.5 (Flash/Pro)<br/>
+      🐻 Zustand (State Management)<br/>
+      ▲ Vercel (Deployment + Serverless)<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="16"/> Playwright (E2E Testing)<br/>
     </td>
   </tr>
 </table>
 -->
 
-### 🟦 Blokus RL Agent
+### 🟦 Blokus MCTS
 <table>
-  <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" width="100%" />
-    </td>
-    <td width="42%" valign="top">
-      <strong>What it does:</strong><br/>
-      A high-performance RL agent for the board game Blokus. Uses parallel environments, efficient legal move generation, Maskable PPO, and strategy visualization.
-      <br/><br/>
-      <strong>Links:</strong><br/>
-      • <a href="https://github.com/TGALLOWAY1/ReinforcementLearning_Blokus">📂 GitHub Repo</a><br/>
-      • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Blokus_RL_Mastery_Through_Self-Play.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
-      <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python (Bitboards)<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="16"/> PyTorch (PPO)<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React (Viz)<br/>
-    </td>
-  </tr>
+	<tr>
+		<td width="28%" align="center" valign="top">
+			<img src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" width="100%" />
+		</td>
+		<td width="42%" valign="top">
+			<strong>What it does:</strong><br/>
+			A full-stack Blokus board game platform with Monte Carlo Tree Search AI. Features bitboard move generation, MCTS with Zobrist transposition tables, and an in-browser Python engine via Pyodide — zero backend scaling required.
+			<br/><br/>
+			<strong>Links:</strong><br/>
+			• <a href="https://github.com/TGALLOWAY1/BlokusMCTS">📂 GitHub Repo</a><br/>
+			• <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Blokus_RL_Mastery_Through_Self-Play.pdf">📄 Presentation Slides</a>
+		</td>
+		<td width="30%" valign="top">
+			<strong>Tech Stack:</strong><br/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python (MCTS, Bitboards)<br/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="16"/> FastAPI<br/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React / TypeScript<br/>
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
+		</td>
+	</tr>
 </table>
+
 
 ### 🎹 Ableton Push Layout Optimizer
 <table>
