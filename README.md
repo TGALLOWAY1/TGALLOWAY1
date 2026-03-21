@@ -177,6 +177,7 @@
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/HarmoniaLearningMusicTheory">📂 GitHub Repo</a><br/>
+      • <a href="https://harmonia-learning-music-theory.vercel.app">🚀 Live Demo</a><br/>
       • <a href="docs/presentations/harmonia.pdf">📄 Presentation Slides</a>
     </td>
     <td width="30%" valign="top">
