@@ -81,7 +81,7 @@
 </table>
 -->
 
-### 🟦 Blokus MCTS
+### 🟦 MCTS Laboratory
 <table>
 	<tr>
 		<td width="28%" align="center" valign="top">
@@ -89,7 +89,7 @@
 		</td>
 		<td width="42%" valign="top">
 			<strong>What it does:</strong><br/>
-			A full-stack Blokus board game platform with Monte Carlo Tree Search AI. Features bitboard move generation, MCTS with Zobrist transposition tables, and an in-browser Python engine via Pyodide — zero backend scaling required.
+			A platform for exploring advanced Monte Carlo Tree Search (MCTS) techniques in complex, multi-player environments. The project focuses not only on building a strong agent, but on visualizing and analyzing how MCTS behaves — including tree growth, exploration vs. exploitation behavior, rollout distributions, and move selection probabilities. The goal is to use Blokus as a research and visualization environment to better understand search algorithms, statistical decision making, and performance tradeoffs in game AI
 			<br/><br/>
 			<strong>Links:</strong><br/>
 			• <a href="https://github.com/TGALLOWAY1/BlokusMCTS">📂 GitHub Repo</a><br/>
