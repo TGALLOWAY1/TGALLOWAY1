@@ -106,12 +106,14 @@
 </table>
 
 
+
+
 ### 🎹 Ableton Push Layout Optimizer
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/6b9a367c-4b6f-475d-8570-1c7529872a26" width="100%" />
-    </td>
+		<img width="1713" height="1293" alt="image" src="https://github.com/user-attachments/assets/1e76c2f2-5c94-4a0a-9985-bf4e6c21d553" />
+	</td>
     <td width="42%" valign="top">
       <strong>What it does:</strong><br/>
       Generates ergonomic finger-drumming layouts with movement-cost optimization, RL exploration, and onion-skin gesture overlays.
