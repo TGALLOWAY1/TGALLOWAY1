@@ -119,7 +119,7 @@
       Generates ergonomic finger-drumming layouts with movement-cost optimization, RL exploration, and onion-skin gesture overlays.
       <br/><br/>
       <strong>Links:</strong><br/>
-      • <a href="https://github.com/TGALLOWAY1/Performance-ergonomics-optimization-engine-for-Ableton-Push">📂 GitHub Repo</a><br/>
+      • <a href="https://github.com/TGALLOWAY1/Pushflow-Modified">📂 GitHub Repo</a><br/>
       • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Push_Performance_Engine.pdf">📄 Presentation Slides</a>
     </td>
     <td width="30%" valign="top">
