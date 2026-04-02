@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-### 🗺️ SpatialTasks — Spatial Task Mapping Interface
+### 🗺️ SpatialTasks — Visual Task Mapping Interface
 <table>
   <tr>
     <td width="42%" align="center" valign="top">
@@ -129,17 +129,33 @@
     </td>
     <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
-      SpatialTasks is a visual task-planning system that lets users organize work spatially instead of through traditional lists. It supports node-based task grouping, relationship mapping, and interactive planning for projects that benefit from a more flexible, visual workflow.
+      SpatialTasks is a local-first visual task system built on an interactive node canvas. Users lay out work as action and container nodes, connect them with dependency edges, and drill into containers for nested subgraphs with breadcrumb navigation—keeping projects spatial and relational instead of trapped in a flat list.
       <br/><br/>
+      <strong>Key Features:</strong><br/>
+      • Execution mode that highlights the next actionable work, dims finished or blocked items, and pans between steps<br/>
+      • Step-detail panel inside containers with substeps, verification notes from imports, and complete-and-advance flow<br/>
+      • List view for scanning and sorting tasks alongside the canvas<br/>
+      • Resizable nodes, per-node notes, undo/redo, and browser persistence with save indicator<br/>
+      • Markdown import from file drop or paste, with editable draft review before canvas creation<br/>
+      • Optional Gemini (BYOK) for Magic Expand and AI-generated starter flows<br/>
+      • Multiple projects, optional Supabase sync/auth, and touch-friendly UI patterns<br/>
+      <br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/SpatialTasks">📂 GitHub Repo</a><br/>
-      • <a href="YOUR_VERCEL_OR_DEMO_LINK">🚀 Live Demo</a>
-      <br/><br/>
+      • <a href="https://spatialtasks.vercel.app/">🚀 Live Demo</a><br/>
+      <br/>
       <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React 18<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
-      🧩 Interactive Canvas UI<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="16"/> Vite<br/>
+      🕸️ React Flow<br/>
+      🐻 Zustand + zundo<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
+      🟢 Supabase (optional sync)<br/>
+      🤖 Gemini API (optional AI)<br/>
+      <br/>
+      <strong>Interactive Canvas UI:</strong><br/>
+      Pan/zoom graph, drag nodes, connect dependencies, nest workflows in containers, resize nodes, and switch to list view without leaving the project.
     </td>
   </tr>
 </table>
