@@ -17,24 +17,22 @@
 
 
 ---
-
 # 🌐 **Project Gallery**
 
 ### 🇧🇷 LusoPronounce — Portuguese Pronunciation Trainer
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
+    <td width="42%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/a1d9c7fd-5382-4baa-a3cf-bfa3e83c278a" width="100%" />
     </td>
-    <td width="42%" valign="top">
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
       LusoPronounce teaches Brazilian Portuguese pronunciation through phoneme-level analysis using Azure Speech AI. It provides phoneme tips and recommendations via OpenAI / Google AI Studio APIs.
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/LusoPronunciation">📂 GitHub Repo</a><br/>
       • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/AI_Linguistics_A_Personalized_Pronunciation_Engine.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
+      <br/><br/>
       <strong>Tech Stack:</strong><br/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="16"/> Azure Speech AI<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="16"/> Next.js<br/>
@@ -47,10 +45,10 @@
 ### 🧠 SynapsePRD — AI Product Development Platform
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
+    <td width="42%" align="center" valign="top">
       <img width="1110" height="1105" alt="image" src="https://github.com/user-attachments/assets/c86047c5-95f5-46a6-a1e6-7cf1c466f999" width="100%" />
     </td>
-    <td width="42%" valign="top">
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
       SynapsePRD turns product ideas into build-ready specs with AI. Users can refine requirements, explore alternate directions, generate UI mockups, and produce implementation artifacts from a single source of truth.
       <br/><br/>
@@ -63,8 +61,7 @@
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/SynapsePRD">📂 GitHub Repo</a><br/>
       • <a href="https://synapse-prd.vercel.app/">🚀 Live Demo</a><br/>
-    </td>
-    <td width="30%" valign="top">
+      <br/>
       <strong>Tech Stack:</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React 19<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
@@ -80,50 +77,23 @@
 
 ### 🟦 MCTS Laboratory
 <table>
-	<tr>
-		<td width="28%" align="center" valign="top">
-			<img src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" width="100%" />
-		</td>
-		<td width="42%" valign="top">
-			<strong>What it does:</strong><br/>
-			A platform for exploring advanced Monte Carlo Tree Search (MCTS) techniques in complex, multi-player environments. The project focuses not only on building a strong agent, but on visualizing and analyzing how MCTS behaves — including tree growth, exploration vs. exploitation behavior, rollout distributions, and move selection probabilities. The goal is to use Blokus as a research and visualization environment to better understand search algorithms, statistical decision making, and performance tradeoffs in game AI
-			<br/><br/>
-			<strong>Links:</strong><br/>
-			• <a href="https://github.com/TGALLOWAY1/BlokusMCTS">📂 GitHub Repo</a><br/>
-			• <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Blokus_RL_Mastery_Through_Self-Play.pdf">📄 Presentation Slides</a>
-		</td>
-		<td width="30%" valign="top">
-			<strong>Tech Stack:</strong><br/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python (MCTS, Bitboards)<br/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="16"/> FastAPI<br/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React / TypeScript<br/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
-		</td>
-	</tr>
-</table>
-
-
-
-
-### 🎹 Ableton Push Layout Optimizer
-<table>
   <tr>
-    <td width="28%" align="center" valign="top">
-		<img width="1713" height="1293" alt="image" src="https://github.com/user-attachments/assets/1e76c2f2-5c94-4a0a-9985-bf4e6c21d553" />
-	</td>
-    <td width="42%" valign="top">
+    <td width="42%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" width="100%" />
+    </td>
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
-      Generates ergonomic finger-drumming layouts with movement-cost optimization, RL exploration, and onion-skin gesture overlays.
+      A platform for exploring advanced Monte Carlo Tree Search (MCTS) techniques in complex, multi-player environments. The project focuses on both building a strong agent and visualizing how MCTS behaves, including tree growth, exploration patterns, rollout distributions, and move selection probabilities.
       <br/><br/>
       <strong>Links:</strong><br/>
-      • <a href="https://github.com/TGALLOWAY1/Pushflow-Modified">📂 GitHub Repo</a><br/>
-      • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Push_Performance_Engine.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
+      • <a href="https://github.com/TGALLOWAY1/BlokusMCTS">📂 GitHub Repo</a><br/>
+      • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Blokus_RL_Mastery_Through_Self-Play.pdf">📄 Presentation Slides</a>
+      <br/><br/>
       <strong>Tech Stack:</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Optimization Engine<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React + SVG<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Python (MCTS, Bitboards)<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="16"/> FastAPI<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React / TypeScript<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="16"/> Tailwind CSS<br/>
     </td>
   </tr>
 </table>
@@ -131,18 +101,17 @@
 ### ✅ HabitFlow
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
+    <td width="42%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/1d82b4a4-b2f8-4eef-bd53-228750ac2c0f" width="100%" />
     </td>
-    <td width="42%" valign="top">
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
-      A multi-mode activity execution system (checklist, image-guided, text-guided) with automated habit logging and MongoDB DayLogs.
+      A multi-mode activity execution system with checklist, image-guided, and text-guided flows, plus automated habit logging and MongoDB-backed tracking.
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/HabitFlowAI">📂 GitHub Repo</a><br/>
       • <a href="docs/presentations/habitflow.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
+      <br/><br/>
       <strong>Tech Stack:</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="16"/> MongoDB<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
@@ -152,22 +121,20 @@
   </tr>
 </table>
 
-<!--
 ### 🗺️ SpatialTasks — Spatial Task Mapping Interface
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="YOUR_IMAGE_HERE" width="100%" />
+    <td width="42%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/8ec4cf7b-8448-4b81-87e6-38be3278ea51" width="100%" />
     </td>
-    <td width="42%" valign="top">
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
       SpatialTasks is a visual task-planning system that lets users organize work spatially instead of through traditional lists. It supports node-based task grouping, relationship mapping, and interactive planning for projects that benefit from a more flexible, visual workflow.
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/SpatialTasks">📂 GitHub Repo</a><br/>
       • <a href="YOUR_VERCEL_OR_DEMO_LINK">🚀 Live Demo</a>
-    </td>
-    <td width="30%" valign="top">
+      <br/><br/>
       <strong>Tech Stack:</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
@@ -176,24 +143,22 @@
     </td>
   </tr>
 </table>
---> 
 
 ### 🎶 Harmonia – Algorithmic Music Generation Canvas
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
+    <td width="42%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/e6f3a36c-e848-4366-8840-62473ca45560" width="100%" />
     </td>
-    <td width="42%" valign="top">
+    <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
-      A procedural harmonic generator and immersive music sketchpad. It constructs scale-aware chord progressions and melodies using algorithmic voice-leading heuristics, accompanied by a real-time Tone.js synthesis engine and interactive piano roll.
+      A procedural harmonic generator and immersive music sketchpad. It constructs scale-aware chord progressions and melodies using algorithmic voice-leading heuristics, paired with a real-time Tone.js synthesis engine and interactive piano roll.
       <br/><br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/HarmoniaLearningMusicTheory">📂 GitHub Repo</a><br/>
       • <a href="https://harmonia-learning-music-theory.vercel.app">🚀 Live Demo</a><br/>
       • <a href="docs/presentations/harmonia.pdf">📄 Presentation Slides</a>
-    </td>
-    <td width="30%" valign="top">
+      <br/><br/>
       <strong>Tech Stack:</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="16"/> TypeScript<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="16"/> Next.js<br/>
@@ -203,7 +168,27 @@
   </tr>
 </table>
 
-
+### 🎹 Ableton Push Layout Optimizer
+<table>
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <img width="1713" height="1293" alt="image" src="https://github.com/user-attachments/assets/1e76c2f2-5c94-4a0a-9985-bf4e6c21d553" width="100%" />
+    </td>
+    <td width="58%" valign="top">
+      <strong>What it does:</strong><br/>
+      Generates ergonomic finger-drumming layouts with movement-cost optimization, RL exploration, and onion-skin gesture overlays.
+      <br/><br/>
+      <strong>Links:</strong><br/>
+      • <a href="https://github.com/TGALLOWAY1/Pushflow-Modified">📂 GitHub Repo</a><br/>
+      • <a href="https://github.com/TGALLOWAY1/ProjectPresentations/blob/main/Slidedecks/Push_Performance_Engine.pdf">📄 Presentation Slides</a>
+      <br/><br/>
+      <strong>Tech Stack:</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16"/> Optimization Engine<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16"/> React + SVG<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="16"/> Node.js<br/>
+    </td>
+  </tr>
+</table>
 ---
 
 # 🧰 **Skills**
