@@ -43,24 +43,22 @@
     </td>
   </tr>
 </table>
-<!--
+
 ### 🧠 SynapsePRD — AI Product Development Platform
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/90bfbcab-541a-4781-ad00-cf43fb869260" width="100%" />
+      <img width="1110" height="1105" alt="image" src="https://github.com/user-attachments/assets/c86047c5-95f5-46a6-a1e6-7cf1c466f999" width="100%" />
     </td>
     <td width="42%" valign="top">
       <strong>What it does:</strong><br/>
-      SynapsePRD is a spec-driven product development platform that transforms rough ideas into build-ready specifications through an AI-powered pipeline. It goes beyond PRD generation — users can iteratively refine specs through branch-based exploration, generate multi-fidelity UI mockups (wireframe → high-fi), auto-derive 7 downstream artifacts (screen inventories, user flows, component inventories, data models, implementation plans, design systems, and prompt packs), and close feedback loops between design and specification — all with full version history and provenance tracking.
+      SynapsePRD turns product ideas into build-ready specs with AI. Users can refine requirements, explore alternate directions, generate UI mockups, and produce implementation artifacts from a single source of truth.
       <br/><br/>
       <strong>Key Features:</strong><br/>
-      • Structured PRD generation with intent-based branching (Clarify, Expand, Specify, Alternative, Replace)<br/>
-      • Multi-fidelity mockup generation with A/B comparison and version tracking<br/>
-      • 7 auto-generated downstream artifacts from a single PRD<br/>
-      • Integrated feedback loop — mockup insights feed back into PRD branches<br/>
-      • Scope-guarded document-wide patch consolidation with match previews<br/>
-      • Agent prompt generation for Cursor, Codex, Claude Code, and GitHub Copilot<br/>
+      • AI-generated PRDs with branching for iteration and alternatives<br/>
+      • UI mockup generation from wireframe to high-fidelity<br/>
+      • Auto-generated artifacts like flows, screen inventories, data models, and implementation plans<br/>
+      • Prompt generation for coding agents and developer workflows<br/>
       <br/>
       <strong>Links:</strong><br/>
       • <a href="https://github.com/TGALLOWAY1/SynapsePRD">📂 GitHub Repo</a><br/>
@@ -79,7 +77,6 @@
     </td>
   </tr>
 </table>
--->
 
 ### 🟦 MCTS Laboratory
 <table>
