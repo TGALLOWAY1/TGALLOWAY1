@@ -19,7 +19,7 @@
 ---
 # 🌐 **Project Gallery**
 
-### 🇧🇷 LusoPronounce — Portuguese Pronunciation Trainer
+### 🇧🇷 AI Pronunciation Trainer
 <table>
   <tr>
     <td width="42%" align="center" valign="top">
@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td width="42%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/b3948354-72af-4960-a143-da4045d37181" width="100%" />
+      <img src="https://github.com/user-attachments/assets/301d4c44-d618-4fa3-a9ec-2f7ed3df01da"  width="100%" />
     </td>
     <td width="58%" valign="top">
       <strong>What it does:</strong><br/>
