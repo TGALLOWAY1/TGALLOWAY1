@@ -184,6 +184,7 @@
   </tr>
 </table>
 
+<!--
 ### 🎹 Ableton Push Layout Optimizer
 <table>
   <tr>
@@ -205,6 +206,7 @@
     </td>
   </tr>
 </table>
+-->
 ---
 
 # 🧰 **Skills**
