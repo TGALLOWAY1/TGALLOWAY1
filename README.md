@@ -75,6 +75,8 @@
   </tr>
 </table>
 
+<!--
+
 ### 🟦 MCTS Laboratory
 <table>
   <tr>
@@ -97,6 +99,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ### ✅ HabitFlow
 <table>
